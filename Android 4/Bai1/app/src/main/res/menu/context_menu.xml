@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/sm_edit" android:title="edit"></item>
+    <item android:id="@+id/sm_send" android:title="send"></item>
+    <item android:id="@+id/sm_delete" android:title="delete"></item>
+</menu>
